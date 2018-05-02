@@ -59,7 +59,10 @@
 
 #define		FMT_SPACE_4 "    " 
 
-#define		REGKEY			"Use any UUID here"
+//#define		REGKEY			"Software\\{906D6D9F-AB51-429F-8816-8D33284204FF}"
+//#define		REGKEY			"Software\\{BEE2684F-3781-4372-BA18-75ECC22C3B70}"
+//#define		REGKEY			"Software\\{1a003c2f-d27f-42ca-991f-0df04f9aa72d}"
+#define		REGKEY			"Software\\{d58cb4b1-47f3-45cb-a209-f298d0c3f756}"
 
 
 #define		SSHTUNNELER 	  "plink.exe"
